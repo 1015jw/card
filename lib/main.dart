@@ -485,4 +485,4 @@ class _SpiderSolitaireScreenState extends State<SpiderSolitaireScreen> {
   }
 }
 
-// 아이템 사용하고 드래그했을 때 클릭한 카드 기준으로 아래의 카드까지 전부 드래그되는 것처럼 보이는 문제 수정 필요
+// 아이템 해결
